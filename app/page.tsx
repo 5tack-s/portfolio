@@ -14,7 +14,7 @@ return (
 <div>
 
     <div className="w-full border-0 border-white">
-        <div className="flex ml-auto justify-end w-fit border p-5 rounded-2xl">
+        <div className="flex ml-auto justify-end w-fit border p-5 rounded-b-2xl">
           <Clock classes="text-red-500"/>
         </div>
     </div>
